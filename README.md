@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn more about tecnologies
 - 🌱 I’m currently learning C#
 - 📫 Email Contact: Gustavogfurtado@gmail.com
-- 👾 Discord Contact: Gustavinhu#0001
+- 👾 Discord Contact: Guxta.gf
 
 <!---
 Gustavinhu64/Gustavinhu64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
